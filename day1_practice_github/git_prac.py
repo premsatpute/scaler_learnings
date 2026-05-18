@@ -1,1 +1,3 @@
-print("created on cmd using numpy)
+
+print("new line added")
+print("created on cmd using notepad")
